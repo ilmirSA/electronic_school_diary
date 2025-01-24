@@ -163,3 +163,5 @@ __pycache__
 tg-dg-359611-596bcbbe6fec.json
 poetry.lock
 pyproject.toml
+/datacenter
+schoolbase.sqlite3
